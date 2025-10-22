@@ -8,6 +8,7 @@
     box-sizing: border-box;
     margin:0;
     padding:0;
+    overflow: auto;
 }
 
 html {
@@ -28,10 +29,18 @@ h1 {
 header h1 {
     font-size: 1.25em;
     font-weight: 500;
-    background-image: url('images/concrete.jpg');
+    margin: 1em 1em 5em;
+    padding: 0.25em;
+    background: #222;
+    color: white;
+    width: fit-content;
+}
+
+header {
+    background-image: url('images/peeling-paint.jpg');
     background-position: 50% 50%;
-    background-size: 100%;
-    padding: 1em 1em 5em;
+    padding-bottom: 1px;
+    background-size: cover;
 }
 
 a:link {color: #8833cc;}
@@ -41,9 +50,7 @@ a:focus {color: #7722bb;}
 a:active {color: #8833cc;}
 
 nav {
-    border: 1px solid #cecece;
-    border-width: 1px 0;
-    padding: 0.5em 0;
+    padding: 1em;
     margin: 0;
     background: #f0f0f0;
 }
