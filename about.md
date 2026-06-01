@@ -1,6 +1,6 @@
 ---
 title: About Jeremy
-layout: page
+layout: post
 ---
 
 # About Jeremy
