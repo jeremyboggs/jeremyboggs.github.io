@@ -1,1 +1,3 @@
-Lorem ipsum dolor sit amet.
+I've been a digital humanities practitioner for over twenty-five years, as a designer, developer, researcher, and teacher. In my current role as Head of Research and Development in the Scholars’ Lab I provide consultation and collaboration support for digital humanities related initiatives. My current research includes feminist interface design for digital collections, homebrewed adaptations of fictional and historical materials for Dungeons and Dragons, and connecting bibliographies to different types of card decks and games.
+
+Check out more [about me](about.html), view my [project portfolio](portfolio.html), or read my [CV](cv.html)
