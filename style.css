@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: bisque;
+}
+
+body {
+    margin: 40px auto;
+    max-width: 700px;
+    background-color: white;
+    padding: 40px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background: orange;
+    margin: 50px;
+    padding: 20px;
+}
